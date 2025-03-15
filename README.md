@@ -1,1 +1,1 @@
-# fe5213-cpi-forecasting
+# FE5213 CPI Forecasting
