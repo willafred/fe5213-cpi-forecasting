@@ -11,7 +11,7 @@ S adj: N
 2. Gross GDP for UK index - Monthly 1997-01-01 to 2025-01-01
 https://www.ons.gov.uk/economy/grossdomesticproductgdp/datasets/gdpmonthlyestimateuktimeseriesdataset
 Source: ONS
-S adj: 
+S adj: Y
 
 
 3. Gross GDP at Market Prices - Quarterly 1955-Q1 to 2024-Q4
