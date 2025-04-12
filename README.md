@@ -1,5 +1,5 @@
 # FE5213 CPI Forecasting
-This project focusses on the modelling of differenced inflation rates (based on CPI) in the US and UK economies. We found that AR and ADL models work better than non-traditional models such as Ridge and LSTM models.
+This project focuses on the modelling of differenced inflation rates (based on CPI) in the US and UK economies. We found that AR and ADL models work better than non-traditional models such as Ridge and LSTM models.
 
 The details of the relevant files are as described below:
 
